@@ -8,7 +8,7 @@ where bean images obtained by a computer vision system were subjected to segment
 
 
 Through insight-driven feature engineering and models ensembling I was able to improve the overall accuracy 
-presented in the research paper by 4%.
+presented in the research paper by 93% to 96% on the validation set, and 94% on the test set.
 
 #### Project Highlights
 1. EDA to extract insights and feature engineering
