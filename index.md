@@ -1,7 +1,10 @@
+<style>
+    hr {width: 60%;margin-left: auto;margin-right: auto;}
+</style>
 <div>
     <h2>Data Science Projects</h2>
     <div>
-        <h3>
+        <h3 style="text-decoration: underline;">
             <a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/dry_beans_classification">Dry beans classification</a>
         </h3> 
         <img src="images/drybeans.png" width=300 align="right">
@@ -31,8 +34,9 @@
             </li>
         </ul>
     </div>
+    <hr>
     <div>
-        <h3>
+        <h3 style="text-decoration: underline;">
             <a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/bike_rentals_competition">Seoul Bike Rentals</a>
         </h3>
         <h4><b>Description</b></h4>
@@ -48,9 +52,10 @@
              <li>Time series using sliding and rolling windows techniques</li>
          </ul>
     </div>
+    <hr>
     <div>
-        <h3><a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/Car_crash_severity">Car Crash Severity Classification</a></h3>
-        <img src="images/carcrash.jpg" width=300 align="right">
+        <h3 style="text-decoration: underline;"><a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/Car_crash_severity">Car Crash Severity Classification</a></h3>
+        <img src="images/carcrash.jpeg" width=300 align="right">
         <p>
             In this <a href="https://www.kaggle.com/c/car-crashes-severity-prediction/overview">Kaggle competition</a> the main objective was to predict the level of car crash severity, out of 4, 
             given the geographic location, weather and other relevant data. Competitors were also asked to clean and preprocess the data, 
@@ -62,4 +67,5 @@
             <li>Feature engineeering and selection, using Chi-Square statistics</li>
         </ul>
     </div>
+    <hr>
 </div>
