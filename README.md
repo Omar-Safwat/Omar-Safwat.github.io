@@ -4,7 +4,7 @@
         <h3>
             <a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/dry_beans_classification">Dry beans classification</a>
         </h3> 
-        <img src="images/drybeans.png" width=300 style="border:5px solid black">
+        <img src="images/drybeans.png" width=300 align="right">
         Seed classiﬁcation is essential for both marketing and production to provide the principles of sustainable agricultural systems. 
 
         The [dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) is based on the following research paper; [Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques](https://doi.org/10.1016/j.compag.2020.105507), 
