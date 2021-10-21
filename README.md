@@ -1,5 +1,5 @@
 <div>
-    ## Data Science Projects
+    <h2>Data Science Projects</h2>
     <div>
         ### [Dry beans classification](Dry beans classification)
         <img src="images/drybeans.png" width=300 style="border:5px solid black">
