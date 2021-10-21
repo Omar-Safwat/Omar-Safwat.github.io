@@ -1,6 +1,7 @@
 <style>
     hr {width: 60%;margin-left: auto;margin-right: auto;}
 </style>
+<title>Omar Safwat</title>
 <div>
     <h2>Data Science Projects</h2>
         <h3 style="text-decoration: underline;">
