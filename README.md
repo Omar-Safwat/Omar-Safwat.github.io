@@ -1,5 +1,6 @@
-# Data Science Projects
-## [Dry beans classification](Dry beans classification)
+## Data Science Projects
+### [Dry beans classification](Dry beans classification)
+![](images/drybeans.png)
 Seed classiﬁcation is essential for both marketing and production to provide the principles of sustainable agricultural systems. 
 
 The [dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) is based on the following research paper; [Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques](https://doi.org/10.1016/j.compag.2020.105507), 
