@@ -7,7 +7,7 @@ where bean images obtained by a computer vision system were subjected to segment
 12 dimensions and 4 shape forms, from 7 different classes of grains.
 
 
-Through insight-drive feature engineering and classification models ensembling I was able to improve the overall accuracy 
+Through insight-driven feature engineering and models ensembling I was able to improve the overall accuracy 
 presented in the research paper by 4%.
 
 #### Project Highlights
