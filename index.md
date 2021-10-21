@@ -7,6 +7,7 @@
         <h3 style="text-decoration: underline;">
             <a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/dry_beans_classification">Dry beans classification</a>
         </h3> 
+        <h4><b>Description</b></h4>
         <img src="images/drybeans.png" width=300 align="right">
         <p>
         <p>Seed classiﬁcation is essential for both marketing and production to provide the principles of sustainable agricultural systems. </p>
