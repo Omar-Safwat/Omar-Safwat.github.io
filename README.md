@@ -1,7 +1,9 @@
 <div>
     <h2>Data Science Projects</h2>
     <div>
-        ### [Dry beans classification](Dry beans classification)
+        <h3>
+            <a href="https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/dry_beans_classification">Dry beans classification</a>
+        </h3> 
         <img src="images/drybeans.png" width=300 style="border:5px solid black">
         Seed classiﬁcation is essential for both marketing and production to provide the principles of sustainable agricultural systems. 
 
@@ -13,7 +15,7 @@
         Through insight-driven feature engineering and models ensembling I was able to improve the overall accuracy 
         presented in the research paper by 93% to 96% on the validation set, and 94% on the test set.
 
-        #### Project Highlights
+        <h4>Project Highlights</h4>
         1. EDA to extract insights and feature engineering
         2. Soft voting ensemble classification model:
         1. CATBoost
@@ -21,7 +23,5 @@
         3. Softmax Logistic Regression
         4- SVM - "Radial Gaussian Kernel"
         5- KNN
-
-        [Dry beans classification]: https://github.com/Omar-Safwat/DataScience_notebooks/tree/main/dry_beans_classification
     </div>
 </div>
