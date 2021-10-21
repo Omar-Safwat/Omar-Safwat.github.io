@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omar Safwat on Portfolio</title>
+    <link>https://Omar-Safwat.github.io/</link>
+    <description>Recent content in Omar Safwat on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Omar-Safwat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://Omar-Safwat.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Omar-Safwat.github.io/contact/</guid>
+      <description>   Platform URL     Github: https://github.com/Omar-Safwat   LinkedIn: https://www.linkedin.com/in/omar-safwat-07a65510b/    </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Dry beans classification</title>
+      <link>https://Omar-Safwat.github.io/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Omar-Safwat.github.io/post/project-1/</guid>
+      <description>Description The Dataset is based on the following research paper:
+Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques,
+Bean images were obtained by a computer vision system were subjected to segmentation and feature extraction stages, giving a total of 16 features for 7 different grains.
+ Presense of different beans in the dataset   Through insight-driven feature engineering and models ensembling I was able to improve the overall accuracy presented in the research paper by 93% to 96% on the validation set, and 94% on the test set.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Seoul Bikes Rentals Predictions</title>
+      <link>https://Omar-Safwat.github.io/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Omar-Safwat.github.io/post/project-2/</guid>
+      <description>Description In this Kaggle competition, the task was to build a regression model to predict the number of bikes rentals given time and weather data .
+ Bike rentals Vs. Temperature   The training set held records for the first 20 days of each month, while the test set started from the 21th till the end of the month.
+Github repo
+Project Highlights  EDA and Data Preprocessing Regression model using XGBoost regressor Time series using sliding and rolling windows techniques  </description>
+    </item>
+    
+    <item>
+      <title>Project 3: Car Crash Severity Classification</title>
+      <link>https://Omar-Safwat.github.io/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Omar-Safwat.github.io/post/project-3/</guid>
+      <description>Description In this Kaggle competition the main objective was to predict the level of car crash severity, out of 4, given the geographic location, weather and other relevant data. Competitors were also asked to clean and preprocess the data, in order to output the highest accuracywithout tweaking the model given.
+ Github repo
+Project Highlights  Time data preprocessing Feature engineeering and selection, using Chi-Square statistics  </description>
+    </item>
+    
+    <item>
+      <title>Project 4: Wuzzuf jobs data analysis</title>
+      <link>https://Omar-Safwat.github.io/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Omar-Safwat.github.io/post/project-4/</guid>
+      <description>Description A Restful Java WebApp using JAX-RS framework, and its implementation Jersey. The WebApp draws several Exploratory Data Analysis insights from a dataset of Job offers, acquired from the Egyptian online job search platform Wuzzuf.
+ Github repo
+Project Highlights  Builing a WebApp using Java, JAX-RS Performing Data Visualization, manipulation and preprocessing using spark. Applying Functional programming API in data preprocessing  </description>
+    </item>
+    
+  </channel>
+</rss>
